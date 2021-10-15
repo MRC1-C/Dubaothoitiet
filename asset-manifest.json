@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Dubaothoitiet/static/css/main.23281943.chunk.css",
+    "main.js": "/Dubaothoitiet/static/js/main.937ea2da.chunk.js",
+    "main.js.map": "/Dubaothoitiet/static/js/main.937ea2da.chunk.js.map",
+    "runtime-main.js": "/Dubaothoitiet/static/js/runtime-main.b022a879.js",
+    "runtime-main.js.map": "/Dubaothoitiet/static/js/runtime-main.b022a879.js.map",
+    "static/css/2.7572b43f.chunk.css": "/Dubaothoitiet/static/css/2.7572b43f.chunk.css",
+    "static/js/2.307e68c3.chunk.js": "/Dubaothoitiet/static/js/2.307e68c3.chunk.js",
+    "static/js/2.307e68c3.chunk.js.map": "/Dubaothoitiet/static/js/2.307e68c3.chunk.js.map",
+    "static/js/3.b96206ff.chunk.js": "/Dubaothoitiet/static/js/3.b96206ff.chunk.js",
+    "static/js/3.b96206ff.chunk.js.map": "/Dubaothoitiet/static/js/3.b96206ff.chunk.js.map",
+    "index.html": "/Dubaothoitiet/index.html",
+    "static/css/2.7572b43f.chunk.css.map": "/Dubaothoitiet/static/css/2.7572b43f.chunk.css.map",
+    "static/css/main.23281943.chunk.css.map": "/Dubaothoitiet/static/css/main.23281943.chunk.css.map",
+    "static/js/2.307e68c3.chunk.js.LICENSE.txt": "/Dubaothoitiet/static/js/2.307e68c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b022a879.js",
+    "static/css/2.7572b43f.chunk.css",
+    "static/js/2.307e68c3.chunk.js",
+    "static/css/main.23281943.chunk.css",
+    "static/js/main.937ea2da.chunk.js"
+  ]
+}
